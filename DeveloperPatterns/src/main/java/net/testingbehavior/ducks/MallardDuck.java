@@ -1,7 +1,7 @@
-package net.testingbehavior;
+package net.testingbehavior.ducks;
 
-import net.testingbehavior.BehaviorImpl.FlyWithWings;
-import net.testingbehavior.BehaviorImpl.Quack;
+import net.testingbehavior.behaviorImpl.FlyWithWings;
+import net.testingbehavior.behaviorImpl.Quack;
 
 public class MallardDuck extends Duck {
 
