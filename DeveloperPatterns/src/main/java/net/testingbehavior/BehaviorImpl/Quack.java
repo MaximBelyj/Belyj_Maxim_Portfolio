@@ -1,6 +1,6 @@
-package net.testingbehavior.BehaviorImpl;
+package net.testingbehavior.behaviorImpl;
 
-import net.testingbehavior.Behavior.QuackBehavior;
+import net.testingbehavior.behavior.QuackBehavior;
 
 public class Quack implements QuackBehavior {
     public void quack() {
