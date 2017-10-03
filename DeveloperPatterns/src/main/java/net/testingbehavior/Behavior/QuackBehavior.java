@@ -1,4 +1,4 @@
-package net.testingbehavior.Behavior;
+package net.testingbehavior.behavior;
 
 public interface QuackBehavior {
     void quack();
