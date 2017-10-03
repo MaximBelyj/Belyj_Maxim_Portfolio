@@ -1,6 +1,6 @@
-package net.testingbehavior.BehaviorImpl;
+package net.testingbehavior.behaviorImpl;
 
-import net.testingbehavior.Behavior.FlyBehavior;
+import net.testingbehavior.behavior.FlyBehavior;
 
 public class FlyWithWings implements FlyBehavior {
     public void fly() {
